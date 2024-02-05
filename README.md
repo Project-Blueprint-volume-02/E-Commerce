@@ -23,6 +23,8 @@ you can follow this wireframe
 
 [link for frontend wireframe] (https://www.figma.com/file/UuboDYb1qoZatFIJpeLOL1/E-Commerce-UI-KIT-(Community)?type=design&node-id=116-92&mode=design&t=lP7Yej0YeRl13Meq-0)
 
+[link for another] (https://www.figma.com/file/k0ZchNPsfK8dikRlmon2JT/Full-E-Commerce-Website-UI-UX-Design-(Community)?type=design&node-id=163-2539&mode=design&t=0Kp5f0V7ghE0PSdx-0)
+
 ## 3. Project Requirements:
 
 ### User Authentication and Registration:
