@@ -19,7 +19,9 @@ By working on this e-commerce project using Ruby on Rails, you and your team wil
 
 ## 2. Wireframe Design:
 
-[Insert Figma Link Here] (Once you have the Figma link, replace this placeholder with the actual link to your wireframe design)
+you can follow this wireframe
+
+[link for frontend wireframe] (https://www.figma.com/file/UuboDYb1qoZatFIJpeLOL1/E-Commerce-UI-KIT-(Community)?type=design&node-id=116-92&mode=design&t=lP7Yej0YeRl13Meq-0)
 
 ## 3. Project Requirements:
 
